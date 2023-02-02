@@ -25,9 +25,9 @@ header {
 }
 
 .hacker {
-    width: 600px;
-    height: 712px;
-    background: url(../hacker.png);
+    width: 315px;
+    height: 327px;
+    background: url(../my-photo.png);
     position: absolute;
     bottom: -100px;
     left: 37%;
